@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254682733823",
+    "project_id": "clothingcheck-2e8b6",
+    "storage_bucket": "clothingcheck-2e8b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254682733823:android:b45b1066b22202c996c0ca",
+        "android_client_info": {
+          "package_name": "com.example.clothingcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254682733823-j1md6um4aku4ito3asris3h4ghl47v4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clothingcheck",
+            "certificate_hash": "b1d4659ecd5fd5c6a2838e9aa707823571531f9a"
+          }
+        },
+        {
+          "client_id": "254682733823-5ogutv7k0sq9k1vrre6ud2jb1iv0ne7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuRVFgwVSqyCbTHcMa58QeOEKwtHpjfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254682733823-5ogutv7k0sq9k1vrre6ud2jb1iv0ne7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

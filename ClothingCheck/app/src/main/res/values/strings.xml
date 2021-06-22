@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClothingCheck</string>
+    <string name="botao_logar">Logar</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se</string>
+</resources>
